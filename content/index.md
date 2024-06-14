@@ -1,7 +1,6 @@
 ---
 title: Welcome!
 ---
-
 Welcome to the digital garden where I grow my [[fvcks]]. However, that part of the garden happens to be barren, so I urge you to explore other sections.
 
 ## Hobbies

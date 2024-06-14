@@ -1,3 +1,7 @@
+---
+tags:
+  - offroad-trails
+---
 ## Easy trails in NC
 
 ### Linville Gorge wilderness
