@@ -15,6 +15,19 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
+          <a href="https://notes.bjers.org">Notes</a> by{" "}
+          <a href="https://x.com/torgnybjers">Torgny Bjers</a> is licensed under{" "}
+          <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
+            target="_blank"
+            rel="license noopener noreferrer"
+            style="display:inline-block;"
+          >
+            CC BY-SA 4.0
+          </a>
+          .
+        </p>
+        <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
