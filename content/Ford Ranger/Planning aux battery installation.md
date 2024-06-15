@@ -1,3 +1,9 @@
+---
+tags:
+  - truck
+  - electrical
+  - "#diy"
+---
 The 2020 Ford Ranger engine bay has limited space, and the battery I am interested in installing (a [LiFePO<sub>4</sub>](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) battery) does not fare well in a hot engine bay.
 
 ## Battery selection

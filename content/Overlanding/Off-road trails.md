@@ -1,6 +1,7 @@
 ---
 tags:
   - offroad-trails
+  - overlanding
 ---
 ## Easy trails in NC
 
