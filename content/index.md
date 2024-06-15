@@ -12,7 +12,7 @@ To give you an idea of what type of ideas might grow here, take a gander at thes
 - [[Overlanding]]
 - [[Camping]]
 - [[Hiking]]
-- [[Trucks]]
+- [[Ford Ranger]]
 
 ### Computers
 

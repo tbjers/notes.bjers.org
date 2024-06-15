@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           <a href="https://notes.bjers.org">Notes</a> by{" "}
-          <a href="https://x.com/torgnybjers">Torgny Bjers</a> is licensed under{" "}
+          <a href="https://x.com/torgnybjers">Torgny Bjers</a> are licensed under{" "}
           <a
             href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
             target="_blank"
