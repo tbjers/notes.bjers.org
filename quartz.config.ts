@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami",
+      websiteId: "d4469167-eb82-4487-bcea-9933d748b966",
     },
     locale: "en-US",
     baseUrl: "notes.bjers.org",
