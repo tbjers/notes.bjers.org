@@ -9,15 +9,16 @@ To give you an idea of what type of ideas might grow here, take a gander at thes
 
 ### Outdoors
 
-- [[Overlanding]]
 - [[Camping]]
 - [[Hiking]]
 - [[Ford Ranger]]
+- [[Overlanding]]
 
 ### Computers
 
-- [[Keyboards]]
 - [[Gaming]]
+- [[Keyboards]]
+- [[Linux]]
 
 ## License
 
