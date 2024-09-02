@@ -81,8 +81,8 @@ importers:
         specifier: ^10.23.0
         version: 10.23.0
       preact-render-to-string:
-        specifier: ^6.5.6
-        version: 6.5.6(preact@10.23.0)
+        specifier: ^6.5.10
+        version: 6.5.10(preact@10.23.0)
       pretty-bytes:
         specifier: ^6.1.1
         version: 6.1.1
@@ -1766,8 +1766,8 @@ packages:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
     engines: {node: '>=8.6'}
 
-  preact-render-to-string@6.5.6:
-    resolution: {integrity: sha512-msFdv7/ooTV6OIodAnU87V4ct+m2DA1rwaRYV+DNvTYpm/ZInQfoGrcHmbTkV7TOcJaHh5wt1NjiALA46Jyxhw==}
+  preact-render-to-string@6.5.10:
+    resolution: {integrity: sha512-BJdypTQaBA5UbTF9NKZS3zP93Sw33tZOxNXIfuHofqOZFoMdsquNkVebs/HkEw0in/Qbi6Ep/Anngnj+VsHeBQ==}
     peerDependencies:
       preact: '>=10'
 
@@ -3968,7 +3968,7 @@ snapshots:
 
   picomatch@2.3.1: {}
 
-  preact-render-to-string@6.5.6(preact@10.23.0):
+  preact-render-to-string@6.5.10(preact@10.23.0):
     dependencies:
       preact: 10.23.0
 
